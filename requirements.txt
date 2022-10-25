@@ -50,6 +50,7 @@ sqlalchemy==1.4.42
 telegram
 telegraph
 telethon==1.25.4
+TruthDarePy
 TgCrypto
 ujson
 wget
