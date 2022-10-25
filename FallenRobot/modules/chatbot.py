@@ -138,7 +138,7 @@ def chatbot(update: Update, context: CallbackContext):
         url = f"http://api.roseloverx.com/api/chatbot?message={anon}"
         request = requests.get(url)
         results = json.loads(request.text)
-        result = f"{results['reply']}"
+        result = f"{results['responses']}"
         sleep(0.5)
         message.reply_text(result)
 
