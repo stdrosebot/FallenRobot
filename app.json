@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/TheAnonymous2005/FallenRobot",
+   "repository": "https://github.com/stdrosebot/FallenRobot",
    "stack": "heroku-20",
    "addons": [
       {
